@@ -1,7 +1,7 @@
 
 
 import img9 from "../assets/image-912x.png";
-import logoCopy from "../assets/logo12x-copy.png";
+import logoCopy from "../assets/logo32x-copy.png";
 import logo1 from "../assets/logo-1.png";
 import logo2 from "../assets/logo12x.png";
 import logo3 from "../assets/logo2x.png";
