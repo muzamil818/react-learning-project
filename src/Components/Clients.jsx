@@ -1,7 +1,7 @@
 import React from 'react'
 
 import logo from '../assets/logo.png'
-import logo1 from '../assets/logo@2x.png'
+import logo1 from '../assets/logo12x.png'
 import logo2 from '../assets/logo2x.png'
 import logo3 from '../assets/logo-2.png'
 

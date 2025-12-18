@@ -1,13 +1,13 @@
 
 
-import img9 from "../assets/image-9@2x.png";
-import logoCopy from "../assets/logo@2x-copy.png";
+import img9 from "../assets/image-912x.png";
+import logoCopy from "../assets/logo12x-copy.png";
 import logo1 from "../assets/logo-1.png";
-import logo2 from "../assets/logo@2x.png";
+import logo2 from "../assets/logo12x.png";
 import logo3 from "../assets/logo2x.png";
 import logo4 from "../assets/logo-2.png";
 import logo5 from "../assets/logo-3.png";
-import rightArrow from "../assets/right@3x.png";
+import rightArrow from "../assets/right13x.png";
 
 
 function Section5() {

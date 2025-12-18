@@ -1,8 +1,8 @@
 import React from "react";
 
-import img18 from "../assets/image-18@2x.png";
-import img19 from "../assets/image-19@2x.png";
-import img20 from "../assets/image-20@2x.png";
+import img18 from "../assets/image-1812x.png";
+import img19 from "../assets/image-1912x.png";
+import img20 from "../assets/image-2012x.png";
 import rightArrow from "../assets/right.png";
 
 function Section6(props) {
