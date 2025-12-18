@@ -1,6 +1,6 @@
 import React from 'react';
-import illustration from '../assets/illustration.png';
-import dot from '../assets/dot.png';
+import illustration from '../../public/illustration.png';
+import dot from '../../public/dot.png';
 
 function Page1() {
   return (

@@ -1,7 +1,7 @@
 import React, { useState } from "react";
-import logo from "../assets/icon12x.png";
-import menuIcon from "../assets/menu.jpg";
-import rightArrow from "../assets/right12x.png";
+import logo from "../../public/icon12x.png";
+import menuIcon from "../../public/menu.jpg";
+import rightArrow from "../../public/right12x.png";
 
 function Header() {
   const [open, setOpen] = useState(false);

@@ -1,9 +1,9 @@
 import React from "react";
-import logo from "../assets/logo-2.png";
-import insta from "../assets/instagram-6338401_640.webp";
-import whatsapp from "../assets/whatsapp.webp";
-import facebook from "../assets/icons8-facebook-logo-48.png";
-import youtube from "../assets/icons8-youtube-logo-94.png";
+import logo from "../../public/logo-2.png";
+import insta from "../../public/instagram-6338401_640.webp";
+import whatsapp from "../../public/whatsapp.webp";
+import facebook from "../../public/icons8-facebook-logo-48.png";
+import youtube from "../../public/icons8-youtube-logo-94.png";
 
 function Footer() {
   return (

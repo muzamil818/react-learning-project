@@ -1,13 +1,13 @@
 import React from 'react'
 
-import logo from '../assets/logo.png'
-import logo1 from '../assets/logo12x.png'
-import logo2 from '../assets/logo2x.png'
-import logo3 from '../assets/logo-2.png'
+import logo from '../../public/logo.png'
+import logo1 from '../../public/logo12x.png'
+import logo2 from '../../public/logo2x.png'
+import logo3 from '../../public/logo-2.png'
 
-import icon from '../assets/icon.png'
-import icon1 from '../assets/icon-1.png'
-import icon2 from '../assets/icon-2.png'
+import icon from '../../public/icon.png'
+import icon1 from '../../public/icon-1.png'
+import icon2 from '../../public/icon-2.png'
 
 
 function Section2() {
